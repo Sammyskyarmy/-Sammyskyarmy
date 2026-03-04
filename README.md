@@ -82,9 +82,9 @@ Habrá 3 interrogaciones, donde se evaluarán los aspectos más teóricos del co
 
 | Evaluación | Fecha                     |
 | :--------- | :------------------------ |
-| I1         | miércoles 7 de mayo, 17:30|
-| I2         | jueves 19 de junio, 17:30 |
-| Examen     | martes 8 de julio, 8:20   |
+| I1         | jueves 30 de abril, 17:30        |
+| I2         | miércoles 17 de junio, 17:30     |
+| Examen     | martes 7 de julio, 8:20          |
 
 ### Talleres 
 
